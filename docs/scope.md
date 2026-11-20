@@ -15,8 +15,6 @@ Xác định phạm vi dữ liệu, kiến trúc xử lý end-to-end và tiêu c
 
 ## 3\. Kiến trúc xử lý end-to-end
 
-![Kiến trúc xử lý dữ liệu Big Data](architecture.png)
-
 ```text
 Kaggle – REES46
 Dữ liệu Clickstream CSV (`2019-Oct.csv`)
